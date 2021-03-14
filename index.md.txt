@@ -1,0 +1,14 @@
+---
+Author : SHiva
+Profession: writer
+---
+
+# Home page
+
+Who am I?
+
+AAA
+
+My Name is {{page.author}}
+
+MY name......
